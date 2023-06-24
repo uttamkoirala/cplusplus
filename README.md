@@ -1,2 +1,2 @@
 # cplusplus
-Compilation of my 👁✨ codes.
+Compilation of my 👀✨ codes.
